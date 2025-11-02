@@ -19,6 +19,7 @@ Create sample content for Nginx (Mike's server)
 <img width="975" height="416" alt="image" src="https://github.com/user-attachments/assets/876a57de-90ce-4094-b415-ede4cf1f1ebf" />
 
 Create Backup Directory
+
 <img width="592" height="290" alt="image" src="https://github.com/user-attachments/assets/74bc7268-b0e4-4743-8c12-d1c47a4368b1" />
 
 Create Backup Script for Apache (Sarah's Server)
